@@ -1,0 +1,6 @@
+#ifndef APPCONST_H_INCLUDED
+#define APPCONST_H_INCLUDED
+
+
+
+#endif // APPCONST_H_INCLUDED

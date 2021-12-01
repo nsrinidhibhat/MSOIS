@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1605184110 source:c:\users\hp\documents\c-language\singlylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"slist.h"
+
+1605139153 c:\users\hp\documents\c-language\singlylist\slist.h
+	<stdint.h>
+
+1605182871 source:c:\users\hp\documents\c-language\singlylist\slist.c
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+	"slist.h"
+

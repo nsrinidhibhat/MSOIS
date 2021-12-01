@@ -1,0 +1,11 @@
+Ajith,16-05-1995,81235,kjay.ajith@gmail.com,Karnataka
+Swathi,11-02-1996,98786,swathi@gmail.com,JammuKashmir
+Sharanya,31-01-1996,98675,sharanya@gmail.com,AndhraPradesh
+Chethana,12-03-1995,89523,chethana@gmail.com,TamilNadu
+Akshith,04-07-1993,78234,akshith@gmail.com,Gujarat
+Amruta,21-10-1996,65432,amruta@gmail.com,WestBengal
+Anupam,05-09-1993,87474,anupam@gmail.com,Rajasthan
+Chandan,13-02-1997,76893,chandan@gmail.com,Punjab
+Himana,04-08-1995,98234,himana@gmail.com,JammuKashmir
+Varsha,05-09-1997,86574,varsha@gmail.com,Maharashtra
+Arun,17-12-1994,67895,arun@gmail.com,UttarPradesh

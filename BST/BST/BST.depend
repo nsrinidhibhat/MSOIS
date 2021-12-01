@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1607911045 source:c:\users\hp\documents\c-language\bst\bst.c
+	<assert.h>
+	<stdlib.h>
+	<stdint.h>
+	"bst.h"
+
+1607909850 c:\users\hp\documents\c-language\bst\bst.h
+	<stdint.h>
+
+1607911157 source:c:\users\hp\documents\c-language\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"bst.h"
+
